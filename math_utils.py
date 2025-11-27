@@ -1,5 +1,4 @@
 # math_utils.py
-import mathz
 
 def add(a: int, b: int) -> int:
     """두 수의 합을 반환합니다."""
